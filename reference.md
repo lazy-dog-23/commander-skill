@@ -8,7 +8,7 @@
 
 根据子 Agent 的任务类型，在 Prompt 中指定推荐使用的 skill。子 Agent 应先读取 skill 的 SKILL.md 再开始工作。
 
-> **Note**: 以下 skill 均为 Antigravity 内置 skill，不属于本项目。此表仅供 Commander 编排时参考。
+> **Note**: 以下 skill 来自 [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)，不属于本项目。此表仅供 Commander 编排时参考。
 
 | 任务类型 | 推荐 Skill | 说明 |
 |---|---|---|
